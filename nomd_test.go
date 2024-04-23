@@ -3,7 +3,7 @@ package nomd_test
 import (
 	"testing"
 
-	"gitlab.com/david-kalmakoff/nomd"
+	"github.com/david-kalmakoff/nomd"
 )
 
 func TestAddElements(t *testing.T) {
